@@ -1,3 +1,6 @@
+# Ferdi Gul #
+# DOS Attack - Multiple IP Multiple Port
+
 import random
 from scapy.all import *
 targetIP = raw_input("Hedef IP [Target IP]: ")
